@@ -29,7 +29,8 @@ SECRET_KEY = 'django-insecure-@-00=q8$)=q0l5qx-8y5)fs_1joq1co(yfvzhg-q)xl2w8w=37
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['spaising-store-backend.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 # Application definition
